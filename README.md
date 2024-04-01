@@ -6,7 +6,7 @@
 - 🌱 Actualmente estoy aprendiendo Rust y utilidades para JavaScript.
 - ⚡ Dato curioso: Cada tecnología fue creada por un propósito.
 
-## Tecnologías:
+## 🛠️ Tecnologías:
 
 <!-- HTML5 -->
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
