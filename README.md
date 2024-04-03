@@ -47,3 +47,5 @@
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white&labelColor=101010)]()
 
 Y algunas más...
+
+<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=SergiCodeDev&show_icons=true&locale=es&layout=compact&theme=transparent&langs_count=8&hide=php,coffeescript" alt="SergiCodeDev" /></p>
